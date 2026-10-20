@@ -1,0 +1,9 @@
+{
+  "name":"BAKEMONO — Gym & Armwrestling Tracker",
+  "short_name":"BAKEMONO",
+  "start_url":".",
+  "display":"standalone",
+  "background_color":"#000000",
+  "theme_color":"#000000",
+  "icons":[]
+}
